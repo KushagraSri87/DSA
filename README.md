@@ -1,161 +1,113 @@
-# 🚀 DSA in C++
+# 🚀 DSA Journey in C++
 
-Welcome to my Data Structures & Algorithms (DSA) repository!
-This repo contains my solutions to various DSA problems implemented in **C++** as part of my learning journey.
-
----
-
-## 📌 About
-
-* 💻 Language: C++🚀 DSA Practice (C++)
-
-This repository contains my Data Structures and Algorithms (DSA) practice in C++.
-I am currently focusing on building strong fundamentals for coding interviews and placements.
+<p align="center">
+  <b>Building strong problem-solving skills for placements & interviews</b>
+</p>
 
 ---
 
-📌 Topics Covered
+## 📌 About This Repository
 
-🔹 Arrays
-
-- Reverse Array
-- Maximum Element
-- Minimum Element
-
-🔹 Searching
-
-- Binary Search
-- First Occurrence
-- Last Occurrence
-- Search in Rotated Array
-
-🔹 Special Problems
-
-- Peak Element
-- Pivot Element
-- Square Root
-
-🔹 Sorting
-
-- Bubble Sort
-- Selection Sort
-
----
-
-🛠️ Language Used
-
-- C++
-
----
-
-📈 Current Progress
-
-- ✔ Basics of Arrays
-- ✔ Binary Search and its variations
-- ✔ Basic Sorting Algorithms
-
----
-
-🎯 Goals
-
-- Complete all major DSA topics
-- Solve problems from platforms like LeetCode & GFG
-- Improve problem-solving and optimization skills
-
----
-
-🔥 Upcoming Topics
-
-- Recursion
-- Linked List
-- Stack & Queue
-- Trees & Graphs
-
----
-
-💡 Note
-
-This repository is regularly updated as I continue my DSA journey.
-
----
-
-⭐ If you find this helpful, feel free to check it out!
-* 📚 Focus: Problem Solving & Core DSA Concepts
-* 🎯 Goal: Crack coding interviews & improve problem-solving skills
+This repository contains my consistent practice of **Data Structures and Algorithms (DSA)** using **C++**.
+I am focusing on mastering core concepts, improving logic building, and preparing for technical interviews.
 
 ---
 
 ## 🧠 Topics Covered
 
-### 🔍 Binary Search
+### 📊 Arrays
 
-* ✅ First Occurrence
-* ✅ Last Occurrence
-* ✅ Peak Element in Mountain Array
-* ✅ Book Allocation Problem
-* ✅ Basic Binary Search
+* Reverse Array
+* Maximum Element
+* Minimum Element
 
----
+### 🔍 Searching Algorithms
 
-### 📦 Arrays
+* Binary Search
+* First Occurrence
+* Last Occurrence
+* Search in Rotated Sorted Array
 
-* ✅ Basic Array Operations
-* ✅ Searching & Traversal
+### ⚡ Special Problems
 
----
+* Peak Element
+* Pivot Element
+* Square Root
 
-### 🔁 Recursion *(Upcoming)*
+### 🔄 Sorting Algorithms
 
-* 🔄 Will be added soon
-
----
-
-### 🌳 Trees *(Upcoming)*
-
-* 🔄 Will be added soon
+* Bubble Sort
+* Selection Sort
 
 ---
 
-## 📂 Folder Structure
+## 📁 Folder Structure
 
+```
 DSA/
-│── Binary_Search/
-│── Arrays/
-│── Recursion/
-│── Trees/
-
----
-
-## ⚡ How to Run Code
-
-```bash
-g++ filename.cpp
-./a.out
+│
+├── Arrays/
+├── Searching/
+├── Sorting/
+└── Special_Problems/
 ```
 
 ---
 
-## 📈 Progress
+## 🛠️ Tech Stack
 
-* 📅 Started: March 2026
-* 🔥 Currently Learning: Binary Search & Problem Patterns
-* 🚀 Next Target: Recursion + Trees
-
----
-
-## 🤝 Contributions
-
-This is a personal learning repo, but suggestions are always welcome!
+* 💻 Language: C++
+* 🧰 Tools: VS Code, Git, GitHub
 
 ---
 
-## ⭐ Connect with Me
+## 📈 Progress Tracker
 
-* GitHub: https://github.com/KushagraSri87
+| Topic          | Status        |
+| -------------- | ------------- |
+| Arrays         | ✅ Completed   |
+| Binary Search  | ✅ Completed   |
+| Sorting Basics | ✅ Completed   |
+| Recursion      | ⏳ In Progress |
+| Linked List    | ⏳ Upcoming    |
+| Trees          | ⏳ Upcoming    |
 
 ---
 
-## 💡 Note
+## 🎯 Goals
 
-Consistency > Perfection
-Solving problems daily and improving step by step 🚀
+* Solve 200+ DSA problems
+* Master all core topics
+* Crack coding interviews
+* Build strong problem-solving intuition
+
+---
+
+## 🔥 What Makes This Repo Special
+
+* Clean and structured code
+* Beginner-friendly implementations
+* Step-by-step learning approach
+* Regular updates
+
+---
+
+## 🚀 Future Plan
+
+* Recursion & Backtracking
+* Linked List
+* Stack & Queue
+* Trees & Graphs
+* Dynamic Programming
+
+---
+
+## 🤝 Connect With Me
+
+* 💼 GitHub: *Add your GitHub link here*
+
+---
+
+## ⭐ Support
+
+If you find this helpful, consider giving it a ⭐
