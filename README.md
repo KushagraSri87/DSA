@@ -7,7 +7,79 @@ This repo contains my solutions to various DSA problems implemented in **C++** a
 
 ## 📌 About
 
-* 💻 Language: C++
+* 💻 Language: C++🚀 DSA Practice (C++)
+
+This repository contains my Data Structures and Algorithms (DSA) practice in C++.
+I am currently focusing on building strong fundamentals for coding interviews and placements.
+
+---
+
+📌 Topics Covered
+
+🔹 Arrays
+
+- Reverse Array
+- Maximum Element
+- Minimum Element
+
+🔹 Searching
+
+- Binary Search
+- First Occurrence
+- Last Occurrence
+- Search in Rotated Array
+
+🔹 Special Problems
+
+- Peak Element
+- Pivot Element
+- Square Root
+
+🔹 Sorting
+
+- Bubble Sort
+- Selection Sort
+
+---
+
+🛠️ Language Used
+
+- C++
+
+---
+
+📈 Current Progress
+
+- ✔ Basics of Arrays
+- ✔ Binary Search and its variations
+- ✔ Basic Sorting Algorithms
+
+---
+
+🎯 Goals
+
+- Complete all major DSA topics
+- Solve problems from platforms like LeetCode & GFG
+- Improve problem-solving and optimization skills
+
+---
+
+🔥 Upcoming Topics
+
+- Recursion
+- Linked List
+- Stack & Queue
+- Trees & Graphs
+
+---
+
+💡 Note
+
+This repository is regularly updated as I continue my DSA journey.
+
+---
+
+⭐ If you find this helpful, feel free to check it out!
 * 📚 Focus: Problem Solving & Core DSA Concepts
 * 🎯 Goal: Crack coding interviews & improve problem-solving skills
 
