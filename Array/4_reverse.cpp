@@ -13,8 +13,8 @@ void reversearr(int arr[], int n){
 }
 
 int main(){
-    int arr[] = {1,3,5,7,9};
-    int n = 5;
+    int arr[] = {1,3,5,6,7,9};
+    int n = 6;
 
     reversearr(arr, n);
 
