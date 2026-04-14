@@ -61,19 +61,6 @@ DSA/
 
 ---
 
-## 📈 Progress Tracker
-
-| Topic          | Status        |
-| -------------- | ------------- |
-| Arrays         | ✅ Completed   |
-| Binary Search  | ✅ Completed   |
-| Sorting Basics | ✅ Completed   |
-| Recursion      | ⏳ In Progress |
-| Linked List    | ⏳ Upcoming    |
-| Trees          | ⏳ Upcoming    |
-
----
-
 ## 🎯 Goals
 
 * Solve 200+ DSA problems
@@ -81,7 +68,7 @@ DSA/
 * Crack coding interviews
 * Build strong problem-solving intuition
 
----
+--
 
 ## 🔥 What Makes This Repo Special
 
@@ -92,15 +79,7 @@ DSA/
 
 ---
 
-## 🚀 Future Plan
 
-* Recursion & Backtracking
-* Linked List
-* Stack & Queue
-* Trees & Graphs
-* Dynamic Programming
-
----
 
 ## 🤝 Connect With Me
 
