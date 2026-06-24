@@ -23,8 +23,9 @@ bool ispossible(int arr[],int n,int m,int mid){
         
     }
     return true;
+}
 
-  int bookAllocation(int arr[], int n, int m){
+int bookAllocation(int arr[], int n, int m){
 
     int s = arr[0];
     int sum = 0;
@@ -55,8 +56,6 @@ bool ispossible(int arr[],int n,int m,int mid){
     return ans;
 }
 
-
-}
 int main(){
     int arr[] = {10,20,30,40};
     int n = 4;
