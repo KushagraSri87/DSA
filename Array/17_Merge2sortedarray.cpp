@@ -35,7 +35,7 @@ void merge(int a[] , int n , int b[] , int m , int c[]){
 int main(){
     int a[5]={1,3,5,7,9};
     int n=5;
-    int b[3]={2,4,6}
+    int b[3]={2,4,6};
     int m=3;
     int c[8]={0};
     merge(a , 5 , b , 3 , c );
