@@ -46,7 +46,7 @@ void printSum(int arr[][3], int row, int col) {
 
 int largestRowSum(int arr[][3], int row, int col) {
 
-    int maxi = INT_MIN;
+    int maxi = 0;
     int rowIndex = -1;
 
     for(int row=0; row<3; row++) {
